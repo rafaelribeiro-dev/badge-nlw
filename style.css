@@ -96,14 +96,14 @@ ul {
   clip-path: polygon(50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%, 0 25%);
 }
 
-@media (min-width: 425px) {
+@media (min-width: 414px) {
   .avatar {
     margin-top: 10.5rem;
   }
 }
 @media (min-width: 768px) {
   .avatar {
-    margin-top: 3rem;
+    margin-top: 3.8rem;
   }
 }
 
