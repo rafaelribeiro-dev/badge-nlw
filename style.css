@@ -95,7 +95,7 @@ ul {
 
 /* ========== DESKTOP VERSION ========== */
 
-@media (min-width: 1024px) {
+@media (min-width: 769px) {
   body {
     background: url(images/radial.svg) no-repeat top;
     background-color: var(--black);
