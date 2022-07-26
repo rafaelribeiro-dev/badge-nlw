@@ -75,7 +75,7 @@ ul {
 
 .avatar {
   width: 10rem;
-  margin: 11.5rem auto 0;
+  margin: 8.7rem auto 0;
   position: relative;
 }
 
@@ -99,7 +99,6 @@ ul {
   body {
     background: url(images/radial.svg) no-repeat top;
     background-color: var(--black);
-   
   }
 
   main {
@@ -128,6 +127,5 @@ ul {
 
 @media (min-width: 1440px) {
   main {
-    
   }
 }
