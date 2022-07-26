@@ -1,5 +1,5 @@
 <h1 align="center">
- 🪪 Badge NLW HEAT - Rocketseat
+ Crachá NLW HEAT ORIGIN - Rocketseat
 </h1>
 
 <br>
@@ -8,7 +8,7 @@
 
 ## 📝 DESCRIÇÃO
 
-Projeto desenvolvido durante a semana NLW Heat onde foi desenvolvido um crachá para o evento, nas versões Mobile e Desktop </br></br>
+O crachá virtual doWhile foi desenvolvido para exibir as redes sociais do usuário utilizando a API do Github e inseri-las em um design responsivo usando o conceito de mobile first</br></br>
 
 ## 🖥 Live Preview
 
