@@ -99,7 +99,7 @@ ul {
   body {
     background: url(images/radial.svg) no-repeat top;
     background-color: var(--black);
-    margin-top: -2rem;
+   
   }
 
   main {
@@ -128,6 +128,6 @@ ul {
 
 @media (min-width: 1440px) {
   main {
-    margin-top: -10rem;
+    
   }
 }
