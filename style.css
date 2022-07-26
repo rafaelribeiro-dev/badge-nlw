@@ -95,12 +95,6 @@ ul {
 
 /* ========== DESKTOP VERSION ========== */
 
-@media (min-width: 425px){
-.avatar {
-  margin: 10.4rem auto 0;
-  position: relative;
-}
-}
 @media (min-width: 960px) {
   body {
     background: url(images/radial.svg) no-repeat top;
